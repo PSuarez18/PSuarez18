@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.tokioschool.com/wp-content/uploads/2020/09/Python-1.jpg.webp" align="center" height="330" width="1200" />
+<img src="https://innowise-group.com/wp-content/uploads/2022/12/beslv3.jpg" align="center" height="250" width="630" />
 </div>  
   
 
