@@ -7,9 +7,9 @@
 
 ### Hola! Bienvenido 💻  
 
-Hola, soy Paolo, un entusiasta del desarrollo Full Stack con una pasión innata por la resolución de problemas y la creación de soluciones web innovadoras. Mi viaje en el mundo de la programación ha sido una emocionante travesía de aprendizaje y descubrimiento. Con una mentalidad disciplinada y una sed constante de conocimiento, he abrazado los desafíos que este campo en constante evolución me ha presentado. Siempre estoy buscando nuevas formas de ampliar mis habilidades y aprovechar las últimas tecnologías para crear experiencias digitales excepcionales.
+Hola, soy Paolo, un entusiasta del desarrollo Front-End con una pasión innata por la resolución de problemas y la creación de soluciones web innovadoras. Mi viaje en el mundo de la programación ha sido una emocionante travesía de aprendizaje y descubrimiento. Con una sed constante de conocimiento, he abrazado los desafíos que este campo en constante evolución me ha presentado. Siempre estoy buscando nuevas formas de ampliar mis habilidades y aprovechar las últimas tecnologías para crear experiencias digitales innovadoras.
 
-Además, tengo una inclinación especial por el desarrollo Frontend, donde puedo dar vida a mis ideas y diseñar interfaces de usuario atractivas y funcionales. Crear experiencias visuales excepcionales es mi pasión, y me esfuerzo por combinar la estética con la funcionalidad en cada proyecto.
+En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de usuario atractivas y funcionales. Crear experiencias visuales excepcionales es mi pasión, y me esfuerzo por combinar la estética con la funcionalidad en cada proyecto.
   
 
 <br/>  
