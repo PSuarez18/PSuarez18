@@ -74,7 +74,12 @@ En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de 
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PSuarez18&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSuarez18&show_icons=true&theme=gotham"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSuarez18&layout=compact&theme=gotham"/>
+</div>  
+
+
 
 <br/>  
 
