@@ -8,9 +8,9 @@
 
 
 
-### Hola! Bienvenido 💻  
+<h1 align="center">Hola! Bienvenido 💻 , soy PaoloX 👋</h1>
 
-Hola, soy Paolo, un entusiasta del desarrollo Front-End con una pasión innata por la resolución de problemas y la creación de soluciones web innovadoras. Mi viaje en el mundo de la programación ha sido una emocionante travesía de aprendizaje y descubrimiento. Con una sed constante de conocimiento, he abrazado los desafíos que este campo en constante evolución me ha presentado. Siempre estoy buscando nuevas formas de ampliar mis habilidades y aprovechar las últimas tecnologías para crear experiencias digitales innovadoras.
+Desarrolladrr Front-End con una pasión innata por la resolución de problemas y la creación de soluciones web innovadoras. Mi viaje en el mundo de la programación ha sido una emocionante travesía de aprendizaje y descubrimiento. Con una sed constante de conocimiento, he abrazado los desafíos que este campo en constante evolución me ha presentado. Siempre estoy buscando nuevas formas de ampliar mis habilidades y aprovechar las últimas tecnologías para crear experiencias digitales innovadoras.
 
 En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de usuario atractivas y funcionales. Crear experiencias visuales excepcionales es mi pasión, y me esfuerzo por combinar la estética con la funcionalidad en cada proyecto.
   
@@ -78,8 +78,8 @@ En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de 
 
 ## Github Stats  
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSuarez18&show_icons=true&theme=gotham"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSuarez18&layout=compact&theme=gotham"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSuarez18&show_icons=true&theme=nord"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSuarez18&layout=compact&theme=nord"/>
 </div>  
 
 
