@@ -18,7 +18,8 @@ En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de 
 <br/>  
 
 
-## My Skill Set  
+## ⚙️ &nbsp;My Skill Set  
+
 <table align="center"><tr><td  valign="top" width="33%">
 
 
@@ -56,7 +57,7 @@ En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de 
 <br/>  
 
 
-## Connect with me  
+## ⚙️ &nbsp;Connect with me  
 <div align="center">
 <a href="https://github.com/PSuarez18" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -76,7 +77,7 @@ En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de 
 <br/>  
 
 
-## Github Stats  
+### ⚙️ &nbsp;GitHub Analytics 
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSuarez18&show_icons=true&theme=nord"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSuarez18&layout=compact&theme=nord"/>
