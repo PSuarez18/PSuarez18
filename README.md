@@ -19,7 +19,7 @@ En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de 
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td align="center" valign="top" width="33%">
 
 
 
