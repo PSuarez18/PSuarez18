@@ -1,5 +1,8 @@
+
+
+
 <div align="center">
-<img src="https://innowise-group.com/wp-content/uploads/2022/12/beslv3.jpg" align="center" height="250" width="630" />
+<img src="https://innowise-group.com/wp-content/uploads/2022/12/beslv3.jpg" align="center" height="250" width="800" />
 </div>  
   
 
