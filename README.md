@@ -24,7 +24,7 @@ En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de 
 
 
 ### Frontend  
-<div align="center">  
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -38,7 +38,7 @@ En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de 
 
 
 ### Backend  
-<div align="center">  
+<div align="center" >  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -87,7 +87,7 @@ En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de 
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
