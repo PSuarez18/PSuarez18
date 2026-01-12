@@ -118,14 +118,7 @@ Me siento cómodo colaborando con equipos técnicos y de negocio, transformando 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSuarez18&show_icons=true&theme=nord&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSuarez18&layout=compact&theme=nord"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PSuarez18&style=flat-square"/>
