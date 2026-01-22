@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://innowise-group.com/wp-content/uploads/2022/12/beslv3.jpg" height="250" width="800" />
-</div>
-
-<h1 align="center">👋 Hola, soy Paolo Suárez</h1>
+<h1 align="center"> Hola, soy Paolo Suárez</h1>
 <h3 align="center">
 Frontend & Full Stack Developer · React · Next.js · Node · NestJS · SaaS
 </h3>
